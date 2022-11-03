@@ -1,21 +1,21 @@
 # AddYourPlugin
 <br>
-Create File readme.txt and move it to the plugin folder
+1.Create File readme.txt and move it to the plugin folder
 <br>
-Compress the plugin (.Zip)
+2.Compress the plugin (.Zip)
 <br>
-Login: https://login.wordpress.org
+3.Login: https://login.wordpress.org
 <br>
-Upload plugin: https://wordpress.org/plugins/developers/add/
+4.Upload plugin: https://wordpress.org/plugins/developers/add/
 <br>
-Wait: 1-10 business days (average 5 days)
+5.Wait: 1-10 business days (average 5 days)
 <br>
-Receive email from WordPress
+6.Receive email from WordPress
 <br>
-Copy address SVN: http://plugins.svn.wordpress.org/your-plugin/
+7.Copy address SVN: http://plugins.svn.wordpress.org/your-plugin/
 <br>
-Install TortoiseSVN: http://tortoisesvn.net/downloads.html
+8.Install TortoiseSVN: http://tortoisesvn.net/downloads.html
 <br>
-SVN Checkout
+9.SVN Checkout
 <br>
-SVN Commit
+10.SVN Commit
